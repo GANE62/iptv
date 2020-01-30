@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1,PT: RTP 1
+http://nitro.ltd:25461/live/flight/flight12/3489.m3u8
+#EXTINF:-1,PT: RTP 2
+http://nitro.ltd:25461/live/flight/flight12/3488.m3u8
+#EXTINF:-1,PT: RTP 3
+http://nitro.ltd:25461/live/flight/flight12/3487.m3u8
+#EXTINF:-1,PT: RTP Acores
+http://nitro.ltd:25461/live/flight/flight12/3486.m3u8
+#EXTINF:-1,PT: RTP ï¿½FRICA
+http://nitro.ltd:25461/live/flight/flight12/3485.m3u8
+#EXTINF:-1,PT: RTP Internacional
+http://nitro.ltd:25461/live/flight/flight12/3484.m3u8
+#EXTINF:-1,PT: RTP MADEIRA
+http://nitro.ltd:25461/live/flight/flight12/3483.m3u8
+#EXTINF:-1,PT: RTP Memoria
+http://nitro.ltd:25461/live/flight/flight12/3482.m3u8
+#EXTINF:-1,PT: SIC
+http://nitro.ltd:25461/live/flight/flight12/3481.m3u8
+#EXTINF:-1,PT: SIC CARAS
+http://nitro.ltd:25461/live/flight/flight12/3480.m3u8
+#EXTINF:-1,PT: SIC KIDS
+http://nitro.ltd:25461/live/flight/flight12/3479.m3u8
+#EXTINF:-1,PT: SIC MULHER
+http://nitro.ltd:25461/live/flight/flight12/3478.m3u8
+#EXTINF:-1,PT: SIC Noticias
+http://nitro.ltd:25461/live/flight/flight12/3477.m3u8
+#EXTINF:-1,PT: SIC Radical
+http://nitro.ltd:25461/live/flight/flight12/3476.m3u8
+#EXTINF:-1,PT: Sport TV
+http://nitro.ltd:25461/live/flight/flight12/3475.m3u8
+#EXTINF:-1,PT: Sport TV 1 HD
+http://nitro.ltd:25461/live/flight/flight12/3474.m3u8
+#EXTINF:-1,PT: Sport TV 2 HD
+http://nitro.ltd:25461/live/flight/flight12/3473.m3u8
+#EXTINF:-1,PT: Sport TV 3 HD
+http://nitro.ltd:25461/live/flight/flight12/3472.m3u8
+#EXTINF:-1,PT: Sport TV 4 HD
+http://nitro.ltd:25461/live/flight/flight12/3471.m3u8
+#EXTINF:-1,PT: Sport TV 5 HD
+http://nitro.ltd:25461/live/flight/flight12/3470.m3u8
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://nitro.ltd:25461/live/flight/flight12/3469.m3u8
+#EXTINF:-1,PT: Benfica TV 1 HD
+http://nitro.ltd:25461/live/flight/flight12/3535.m3u8
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://nitro.ltd:25461/live/flight/flight12/41457.m3u8
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://nitro.ltd:25461/live/flight/flight12/41456.m3u8
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://nitro.ltd:25461/live/flight/flight12/41455.m3u8
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://nitro.ltd:25461/live/flight/flight12/41454.m3u8
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://nitro.ltd:25461/live/flight/flight12/41453.m3u8
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://nitro.ltd:25461/live/flight/flight12/41452.m3u8
+#EXTINF:-1,PT: SYFY
+http://nitro.ltd:25461/live/flight/flight12/3468.m3u8
+#EXTINF:-1,PT: TLC
+http://nitro.ltd:25461/live/flight/flight12/3467.m3u8
+#EXTINF:-1,PT: Trace Urban
+http://nitro.ltd:25461/live/flight/flight12/3466.m3u8
+#EXTINF:-1,PT: Travel Channel
+http://nitro.ltd:25461/live/flight/flight12/3465.m3u8
+#EXTINF:-1,PT: TV Globo
+http://nitro.ltd:25461/live/flight/flight12/3464.m3u8
+#EXTINF:-1,PT: TV Record
+http://nitro.ltd:25461/live/flight/flight12/3463.m3u8
+#EXTINF:-1,PT: TV SERIES
+http://nitro.ltd:25461/live/flight/flight12/3462.m3u8
+#EXTINF:-1,PT: TVCine 1
+http://nitro.ltd:25461/live/flight/flight12/3461.m3u8
+#EXTINF:-1,PT: TVCine 2
+http://nitro.ltd:25461/live/flight/flight12/3460.m3u8
+#EXTINF:-1,PT: TVCine 3
+http://nitro.ltd:25461/live/flight/flight12/3459.m3u8
+#EXTINF:-1,PT: TVCine 4
+http://nitro.ltd:25461/live/flight/flight12/3458.m3u8
+#EXTINF:-1,PT: TVI
+http://nitro.ltd:25461/live/flight/flight12/3457.m3u8
+#EXTINF:-1,PT: TVI 24
+http://nitro.ltd:25461/live/flight/flight12/3456.m3u8
+#EXTINF:-1,PT: TVI REALITY
+http://nitro.ltd:25461/live/flight/flight12/3455.m3u8
+#EXTINF:-1,PT: VH1
+http://nitro.ltd:25461/live/flight/flight12/3519.m3u8
